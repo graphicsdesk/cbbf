@@ -62,6 +62,13 @@
               </if>
             </div>
           </case>
+          <case n="'graphic'">
+            <div class="graphic">
+              <if condition="item.value.asset === 'word-cloud.html'">
+                <include src="word-cloud.html"></include>
+              </if>
+            </div>
+          </case>
         </switch>
       </each>
     </div>
