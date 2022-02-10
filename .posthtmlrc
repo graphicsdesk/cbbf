@@ -102,16 +102,20 @@
           },
           {
             "type": "text",
-            "value": "<i>Eye Staff Writer </i><i>Melissa Wang</i><i> can be contacted at </i><i>melissa.wang@columbiaspectator.com.</i><i> Follow The Eye on </i><a href=\"https://www.instagram.com/theeye.mag/\"><i>Instagram</i></a><i>.</i>"
+            "value": "<i>Eye Staff Writer </i><a href=\"https://www.columbiaspectator.com/contributors/Melissa-Wang/\"><i>Melissa Wang</i></a><i> can be contacted at </i><i>melissa.wang@columbiaspectator.com.</i><i> Follow The Eye on </i><a href=\"https://www.instagram.com/theeye.mag/\"><i>Instagram</i></a><i>.</i>"
           },
           {
             "type": "text",
-            "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+            "value": "<a href=\"https://www.columbiaspectator.com/contributors/Dreyton-Amador/\"><i>Dreyton Amador</i></a><i> is a Graphics reporter. He can be contacted at </i><a href=\"mailto:dreyton.amador@columbiaspectator.com\"><i>dreyton.amador@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/contributors/Eleanor-Lin/\"><i>Eleanor Lin</i></a><i> is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:eleanor.lin@columbiaspectator.com\"><i>eleanor.lin@columbiaspectator.com</i></a><i>.</i>"
           }
         ],
         "headline": "Cite Black Barnard Faculty: A Project Celebrating Work that Deserves Recognition",
         "date": "February 9, 2022",
-        "byline": "By Melissa Wang",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Melissa-Wang/\">Melissa Wang</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
