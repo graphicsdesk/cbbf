@@ -116,8 +116,8 @@
         "headline": "Cite Black Barnard Faculty: A Project Celebrating Work that Deserves Recognition",
         "date": "February 9, 2022",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Melissa-Wang/\">Melissa Wang</a>",
-        "USE_NEWS_NAV": true,
-        "USE_EYE_NAV": false,
+        "USE_NEWS_NAV": false,
+        "USE_EYE_NAV": true,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
         "DOC_URL": "\u0016https://docs.google.com/document/d/1RnHIz-79cRC6ukly6QLtqaVkOM6Jn_0bEr9HU2ODq5s/edit?usp=sharing"
